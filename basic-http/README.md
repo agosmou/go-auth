@@ -1,0 +1,1 @@
+[HTTP protocol authentication scheme]: https://datatracker.ietf.org/doc/html/rfc7617
