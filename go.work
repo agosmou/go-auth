@@ -5,4 +5,5 @@ use (
 	./start-here
 	./bearer-token
 	./jwt
+	./http-only-cookie-with-jwt
 )
